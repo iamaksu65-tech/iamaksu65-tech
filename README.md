@@ -1,192 +1,386 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=AKSHAT%20KUMAR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Developer%20%7C%20AI-Integrated%20Systems&descSize=18&descAlignY=58" width="100%"/> <br/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Node.js+%2F+Express+%2F+MongoDB;Full-Stack+Developer+%7C+React+%2B+REST+APIs;AI-Integrated+Application+Builder;Building+MedhaChain+%26+DevPilot+AI;Computer+Science+Undergraduate+%E2%80%9423%E2%80%9327" alt="Typing SVG" /> </a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&labelColor=0f0c29"/> <img src="https://img.shields.io/badge/Location-Prayagraj%2C%20India-4C1D95?style=for-the-badge&labelColor=0f0c29"/> <img src="https://img.shields.io/badge/Graduating-2027-312E81?style=for-the-badge&labelColor=0f0c29"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/akshat-kumar-4734952b5/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:akshatk9933@gmail.com"> <img src="https://img.shields.io/badge/Email-Reach%20Out-4338CA?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/iamaksu65-tech"> <img src="https://img.shields.io/badge/GitHub-Follow-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/> </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=iamaksu65-tech&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/> <img src="https://img.shields.io/github/followers/iamaksu65-tech?style=for-the-badge&color=4C1D95&labelColor=0f0c29&label=FOLLOWERS"/> <img src="https://img.shields.io/github/stars/iamaksu65-tech?style=for-the-badge&color=312E81&labelColor=0f0c29&label=STARS"/> </div> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=2&section=header"/>
-🧭 About Me
-<img align="right" width="280" src="https://skillicons.dev/icons?i=java,js,ts,py,c,nodejs,express,react,mongodb,mysql&perline=5&theme=dark"/>
-
-I'm a Computer Science undergraduate building practical, real-world software — with a growing focus on backend systems, full-stack applications, and AI-integrated products.
-
-🔧 Hands-on experience designing and building backend systems and REST APIs using Java, JavaScript, Node.js, Express.js, and MongoDB
-🧠 Core fundamentals in OOP, Data Structures & Algorithms, DBMS, Operating Systems, and Computer Networks
-🌐 Comfortable across the stack — frontend interfaces, API integration, database design, and collaborative software development
-🤖 Practical exposure to AI/API integration — Google Gemini API, Google Vision API, and prompt engineering for structured, real-use applications
-🚀 Currently building MedhaChain and DevPilot AI — two projects that push my backend and full-stack ability further
-
-I care about writing code that's clean, systems that are structured well, and shipping things that actually work — not just theory.
-
-<br clear="right"/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=2&section=header"/>
-🛠️ Tech Stack
 <div align="center">
 
-Languages <br/> <img src="https://skillicons.dev/icons?i=java,js,ts,py,c&theme=dark"/>
+<a href="https://capsule-render.vercel.app/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,18,20&text=AKSHAT%20KUMAR&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Engineering%20%7C%20Backend%20%7C%20AI%2FML&descAlignY=58&descSize=18" alt="Akshat Kumar header"/>
+</a>
 
-Frontend <br/> <img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=dark"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=Computer+Science+Undergraduate;Backend+%26+Full-Stack+Developer;AI%2FML+%26+API+Integration+Enthusiast;Building+Practical+Software+Systems" alt="Typing SVG"/>
+</a>
 
-Backend <br/> <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/> <br/> <img src="https://img.shields.io/badge/REST%20API%20Development-4C1D95?style=flat-square&labelColor=0f0c29"/> <img src="https://img.shields.io/badge/API%20Integration-4C1D95?style=flat-square&labelColor=0f0c29"/>
+<br/>
 
-Databases <br/> <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/> <img src="https://img.shields.io/badge/SQL-312E81?style=flat-square&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="B.Tech CSE"/>
+<img src="https://img.shields.io/badge/2023--2027-4F46E5?style=for-the-badge&logo=calendar&logoColor=white" alt="2023-2027"/>
+<img src="https://img.shields.io/badge/CGPA-7.65%2F10-6366F1?style=for-the-badge&logo=academia&logoColor=white" alt="CGPA"/>
+<img src="https://img.shields.io/badge/India-312E81?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
 
-Developer Tools <br/> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
+<br/><br/>
 
-AI / APIs <br/> <img src="https://img.shields.io/badge/Google%20Gemini%20API-6D28D9?style=flat-square&labelColor=0f0c29"/> <img src="https://img.shields.io/badge/Google%20Vision%20API-5B21B6?style=flat-square&labelColor=0f0c29"/> <img src="https://img.shields.io/badge/Prompt%20Engineering-4338CA?style=flat-square&labelColor=0f0c29"/>
+<a href="https://www.linkedin.com/in/akshat-kumar-4734952b5/">
+  <img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:akshatk9933@gmail.com">
+  <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/iamaksu65-tech">
+  <img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-</div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=2&section=header"/>
-🤖 AI / ML Exposure
-<div align="center">
-Domain	Proficiency	Practical Exposure
-Generative AI Integration	Practical	Google Gemini API used in production-style app logic
-Prompt Engineering	Practical	Designed prompts for structured skill evaluation & scoring
-AI-assisted Application Development	Practical	Built end-to-end features around AI API responses
-Google Vision API	Familiar	Applied for image/vision-based data handling
-Dataset Preparation	Practical	Curated and structured a real handwritten-prescription image dataset
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=iamaksu65-tech&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/iamaksu65-tech?label=FOLLOWERS&style=flat-square&color=6366F1" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/iamaksu65-tech?label=STARS&style=flat-square&color=8B5CF6" alt="Stars"/>
+
 </div>
 
-Note: this reflects applied, project-level AI/API experience — not formal ML research.
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=2&section=header"/>
-🚀 Featured Projects
-<details open> <summary><b>🩺 MedhaChain — AI-Assisted Healthcare Prescription Digitization System</b></summary> <br/>
+## About
 
-Status: 2026 – Present  |  Type: Final-Year Capstone Project
+I am **Akshat Kumar**, a Computer Science undergraduate pursuing a **B.Tech in Computer Science and Engineering (2023–2027)**. My engineering focus is centered on building practical software systems, with hands-on experience in **backend development, REST APIs, databases, full-stack applications, and AI/API integration**.
 
-Overview MedhaChain focuses on digitizing handwritten medical prescriptions into structured health records.
+My current technical work spans **Java, JavaScript, TypeScript, Python, C, Node.js, Express.js, MongoDB, MySQL, React, and Vite**, with additional experience using the **Google Gemini API, Google Vision API, and prompt engineering**.
 
-Stack Node.js Express.js MongoDB REST APIs
+I approach development with a product-engineering mindset: understand the problem, design maintainable system components, integrate the right APIs and data layer, and turn the idea into a working product.
 
-Engineering Work
+### Open To
 
-Engineered backend services and Express.js controllers
-Designed MongoDB schemas for structured health records
-Built REST APIs for the system
-Handled prescription image ingestion, file uploads, and storage
-Curated and structured a dataset of handwritten prescription images
-Supported model development and testing
-Co-authored project documentation — problem statement, literature review, methodology
+- Software Engineering opportunities
+- Backend / Full-Stack development
+- AI-assisted application development
+- Hackathons and collaborative engineering projects
+- Open-source contribution opportunities
 
-Scale Academic capstone project — no clinical or hospital deployment.
+---
 
-Repository <a href="https://github.com/iamaksu65-tech">Individual repository not yet published — see GitHub profile</a>
+## Tech Stack
 
-</details> <br/> <details> <summary><b>🏆 Beyond The Resume — AI-Powered Technical Skill Evaluation Platform</b></summary> <br/>
+### Languages
 
-Year: 2025  |  Context: 24-hour Nexify'26 Hackathon, Sushant University  |  Recognition: Finalist
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,c" alt="Languages"/>
+</p>
 
-Overview An AI-powered platform for evaluating technical skills and generating structured, personalized feedback.
+### Frontend
 
-Stack Node.js Express.js Google Gemini API
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,vite" alt="Frontend"/>
+</p>
 
-Engineering Work
+### Backend & Databases
 
-Built Express.js routes and backend logic
-Integrated the Google Gemini API for evaluation
-Designed prompts for technical skill assessment
-Implemented response parsing into structured, JSON-based output
-Generated personalized feedback for users
-Presented system architecture during final judging
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and databases"/>
+</p>
 
-Repository <a href="https://github.com/iamaksu65-tech">Individual repository not yet published — see GitHub profile</a>
+### Cloud, DevOps & Tooling
 
-</details> <br/> <details> <summary><b>⚙️ DevPilot AI — AI-Assisted Developer Workspace</b></summary> <br/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Developer tooling"/>
+</p>
 
-Status: 2026 – In Progress
+> Primary strengths: REST API development, API integration, database design, debugging, and collaborative software development.
 
-Overview A modular full-stack developer workspace intended to streamline software development workflows.
+---
 
-Stack React Vite Node.js Express.js MongoDB
+## AI / ML Expertise
 
-Engineering Work
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| Generative AI Integration | Intermediate | Google Gemini API integration and structured AI responses |
+| Prompt Engineering | Intermediate | Prompt design for automated technical evaluation workflows |
+| AI-assisted Application Development | Intermediate | Building software workflows around AI APIs |
+| Computer Vision APIs | Working Knowledge | Google Vision API exposure |
+| Dataset Preparation | Working Knowledge | Structured 1,500+ handwritten prescription images for model development/testing |
 
-Developing modular full-stack architecture
-Integrating MongoDB for persistent storage
-Designing a modular project structure
-Supporting incremental feature development
+---
 
-Repository <a href="https://github.com/iamaksu65-tech">Individual repository not yet published — see GitHub profile</a>
+## Featured Projects
 
-</details> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=2&section=header"/>
-💼 Hands-on Engineering Experience
+<details>
+<summary><strong>MedhaChain — AI-Assisted Healthcare Prescription Digitization System</strong></summary>
 
-I haven't held a formal industry role yet — my engineering experience so far comes from sustained project work:
+<br/>
 
-Backend Development — designing REST APIs, controllers, and MongoDB schemas across MedhaChain and DevPilot AI
-AI/API Integration — building real features around the Google Gemini and Google Vision APIs
-Full-Stack Development — connecting React/Vite frontends to Node.js/Express backends
-Hackathon Engineering — designing and shipping a working AI-evaluation system under a 24-hour deadline as a Nexify'26 finalist
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=2&section=header"/>
-🏅 Achievements
+**Status:** 2026 – Present  
+**Stack:** Node.js · Express.js · MongoDB · REST APIs
+
+MedhaChain is a final-year capstone project focused on digitizing handwritten medical prescriptions into structured health records.
+
+| Metric | Details |
+|---|---|
+| Stack | Node.js, Express.js, MongoDB, REST APIs |
+| Scale | 1,500+ handwritten prescription images curated for model development/testing |
+| Performance | No measured production benchmark provided |
+| Security | No formal security benchmark provided |
+| Impact | Prescription image ingestion, storage, file handling, and structured-record workflow |
+
+**Engineering Scope**
+- Engineering backend services for prescription digitization.
+- Developed Express.js controllers and REST APIs.
+- Designed MongoDB schemas for application data.
+- Implemented prescription image ingestion, storage, and file uploads.
+- Curated and structured a dataset of 1,500+ handwritten prescription images.
+- Co-authored project documentation covering the problem statement, literature review, and methodology.
+
+**Repository:** [GitHub Profile](https://github.com/iamaksu65-tech)
+
+</details>
+
+<details>
+<summary><strong>Beyond The Resume — AI-Powered Technical Skill Evaluation Platform</strong></summary>
+
+<br/>
+
+**Status:** 2025  
+**Context:** Nexify’26 24-hour Hackathon · Sushant University  
+**Recognition:** Finalist  
+**Stack:** Node.js · Express.js · Google Gemini API
+
+An AI-powered platform designed to evaluate technical skills and generate structured feedback using the Google Gemini API.
+
+| Metric | Details |
+|---|---|
+| Stack | Node.js, Express.js, Google Gemini API |
+| Scale | 24-hour hackathon project |
+| Performance | No measured production benchmark provided |
+| Security | No formal security benchmark provided |
+| Impact | Automated technical skill evaluation with structured scoring and feedback |
+
+**Engineering Scope**
+- Built Express.js routes and backend logic.
+- Integrated the Google Gemini API.
+- Designed prompts for technical skill evaluation.
+- Implemented response parsing.
+- Generated structured scores, personalized feedback, and JSON-based output.
+- Presented the architecture, implementation approach, and technical workflow during final judging.
+
+**Repository:** [GitHub Profile](https://github.com/iamaksu65-tech)
+
+</details>
+
+<details>
+<summary><strong>DevPilot AI — AI-Assisted Developer Workspace</strong></summary>
+
+<br/>
+
+**Status:** 2026 · In Progress  
+**Stack:** React · Vite · Node.js · Express.js · MongoDB
+
+A modular full-stack developer workspace intended to streamline software development workflows.
+
+| Metric | Details |
+|---|---|
+| Stack | React, Vite, Node.js, Express.js, MongoDB |
+| Scale | Modular full-stack application in active development |
+| Performance | No measured production benchmark provided |
+| Security | No formal security benchmark provided |
+| Impact | Developer workflow tooling with persistent data and incremental feature development |
+
+**Engineering Scope**
+- Developing a modular full-stack developer workspace.
+- Integrated MongoDB for persistent storage.
+- Designed a modular project structure.
+- Supporting incremental feature development.
+
+**Repository:** [GitHub Profile](https://github.com/iamaksu65-tech)
+
+</details>
+
+---
+
+## Experience
+
+### Software Engineering & Project Experience
+
+**Computer Science Engineering Projects**  
+**2025 – Present**
+
+Hands-on engineering experience across academic, hackathon, and ongoing development projects, with emphasis on backend systems, REST APIs, databases, AI API integration, and full-stack application development.
+
+**Scope**
+- Backend service and REST API development
+- Express.js route/controller design
+- MongoDB schema and persistence design
+- AI API integration and response parsing
+- Prompt engineering
+- Full-stack application development
+- Dataset preparation and technical documentation
+- Hackathon system architecture and technical presentation
+
+**Skills:** `Java` `JavaScript` `TypeScript` `Python` `Node.js` `Express.js` `MongoDB` `React` `REST APIs` `Gemini API`
+
+> Formal company employment history was not listed in the provided resume, so this section intentionally does not invent an employer or job title.
+
+---
+
+## Achievements
+
 <div align="center">
-Achievement	Detail
-🏆 Nexify'26 Hackathon	Finalist — Beyond The Resume
-💻 LeetCode	100+ problems solved
-💻 CodeChef	100+ problems solved
-💻 HackerRank	50+ problems solved
-🎓 B.Tech CSE	CGPA 7.65 / 10
-</div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=2&section=header"/>
-📜 Certifications
-Programming in Java (Elite) — NPTEL, IIT Kharagpur
-AI & Machine Learning Summer Internship — IIHMF, MNNIT Allahabad
-IBM SkillsBuild Virtual Internship — Generative AI & Cybersecurity, IBM
-Career Essentials in Generative AI — Microsoft & LinkedIn Learning
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=2&section=header"/>
-📊 Coding Profiles
+
+| Recognition | Details |
+|---|---|
+| 🏆 Hackathon Finalist | Beyond The Resume — finalist at the 24-hour Nexify’26 Hackathon, Sushant University |
+| 💻 LeetCode | 100+ problems solved |
+| 💻 CodeChef | 100+ problems solved |
+| 💻 HackerRank | 50+ problems solved |
+| 🎓 Academic | B.Tech CSE, 2023–2027 · CGPA 7.65/10 |
+
+</div>
+
+---
+
+## Certifications
+
+### NPTEL
+
+<img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java%20%28Elite%29-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="NPTEL Programming in Java"/>
+
+### AI / Machine Learning
+
+<img src="https://img.shields.io/badge/IIHMF%20%7C%20MNNIT%20Allahabad-AI%20%26%20Machine%20Learning%20Summer%20Internship-6366F1?style=for-the-badge&logo=googlecloud&logoColor=white" alt="AI and Machine Learning Internship"/>
+
+### IBM
+
+<img src="https://img.shields.io/badge/IBM%20SkillsBuild-Generative%20AI%20%26%20Cybersecurity-4F46E5?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SkillsBuild"/>
+
+### Microsoft / LinkedIn Learning
+
+<img src="https://img.shields.io/badge/Microsoft%20%26%20LinkedIn%20Learning-Career%20Essentials%20in%20Generative%20AI-5B21B6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Career Essentials in Generative AI"/>
+
+---
+
+## Coding Profiles
+
 <div align="center">
 
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/></a> <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-100%2B%20Solved-5B21B6?style=for-the-badge&logo=codechef&logoColor=white"/></a> <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-50%2B%20Solved-4338CA?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
 
-<sub>Personal profile URLs not provided — badges link to platform homepages.</sub>
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-16A34A?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
 
-</div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=2&section=header"/>
-📈 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamaksu65-tech&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamaksu65-tech&theme=radical&hide_border=true&background=0f0c29&stroke=A78BFA&ring=8B5CF6&fire=8B5CF6&currStreakLabel=A78BFA" width="48%"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamaksu65-tech&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=E5E7EB" width="48%"/>
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-50%2B%20Solved-22C55E?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-100%2B%20Solved-7C3AED?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
+
+</div>
+
+> Direct profile URLs for LeetCode, GeeksforGeeks, HackerRank, and CodeChef were not provided, so the badges above point to their official platforms rather than inventing personal profile URLs.
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=iamaksu65-tech&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C4B5FD&ring_color=8B5CF6" alt="GitHub Stats"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamaksu65-tech&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=iamaksu65-tech&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4"/> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamaksu65-tech&theme=react-dark&bg_color=0f0c29&color=A78BFA&line=8B5CF6&point=E5E7EB&hide_border=true" width="90%"/> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=2&section=header"/>
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/iamaksu65-tech/iamaksu65-tech/output/github-contribution-grid-snake-dark.svg" width="90%"/> </div>
+<img src="https://streak-stats.demolab.com?user=iamaksu65-tech&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub Streak"/>
 
-⚠️ The snake animation above requires a scheduled GitHub Actions workflow to generate and commit the SVG to an output branch — it will not appear automatically. Setup instructions are included in a separate section at the end of this file.
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=2&section=header"/>
-🎯 Current Focus
-yaml
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=iamaksu65-tech&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamaksu65-tech&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph"/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/iamaksu65-tech/iamaksu65-tech/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+> The snake animation requires a GitHub Actions workflow to generate `github-contribution-grid-snake.svg`. Add the workflow from the official `Platane/snk` project after publishing this README.
+
+---
+
+## Current Focus
+
+```yaml
 current_focus:
-  learning:
+  Learning:
     - Advanced Backend Development
     - Data Structures & Algorithms
     - AI-assisted Application Development
 
-  building:
+  Building:
     - MedhaChain
     - DevPilot AI
 
-  exploring:
+  Exploring:
     - Generative AI APIs
     - Full-Stack Product Engineering
-    - REST API Architecture
+    - Scalable REST API Architecture
 
-  open_to:
+  Open To:
     - Software Engineering Opportunities
-    - Backend Projects
-    - Full-Stack Projects
+    - Backend & Full-Stack Projects
     - AI-assisted Development
-    - Hackathons
-    - Open Source
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=2&section=header"/>
-📬 Connect
+    - Hackathons & Open Source
+```
+
+---
+
+## Connect
+
 <div align="center">
 
-<a href="mailto:akshatk9933@gmail.com"><img src="https://img.shields.io/badge/Gmail-akshatk9933%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/akshat-kumar-4734952b5/"><img src="https://img.shields.io/badge/LinkedIn-Akshat%20Kumar-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/iamaksu65-tech"><img src="https://img.shields.io/badge/GitHub-iamaksu65--tech-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:akshatk9933@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-akshatk9933%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
-</div> <br/> <div align="center"> <i>"Build with purpose. Engineer with precision. Keep learning."</i> </div> <br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-<details> <summary><b>⚙️ Optional: Enabling the Contribution Snake Animation</b></summary> <br/>
+<a href="https://www.linkedin.com/in/akshat-kumar-4734952b5/">
+<img src="https://img.shields.io/badge/LinkedIn-Akshat%20Kumar-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/iamaksu65-tech">
+<img src="https://img.shields.io/badge/GitHub-iamaksu65--tech-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+> **"Build with purpose. Engineer with precision. Keep learning."**
+
+<br/>
+
+<a href="https://capsule-render.vercel.app/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=12,14,18,20" alt="Footer"/>
+</a>
+
+</div>
